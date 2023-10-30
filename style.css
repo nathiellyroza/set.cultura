@@ -1,6 +1,7 @@
 body{
     color: black;
     background-color: cadetblue;
+    font-family: cursive;
 }
 ul {
     display: flex;
