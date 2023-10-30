@@ -2,3 +2,7 @@ body{
     color: black;
     background-color: cadetblue;
 }
+ul {
+    display: flex;
+    justify-content: space-between;
+}
