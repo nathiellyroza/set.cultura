@@ -8,4 +8,8 @@ ul {
     justify-content: space-between;
     list-style-type: none;
     padding: 16px;
+} 
+a { 
+    color:white;
+    text-decoration: none;
 }
